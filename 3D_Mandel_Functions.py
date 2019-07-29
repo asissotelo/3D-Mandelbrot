@@ -3,8 +3,5 @@
 #
 # Asis A Sotelo
 #
-#26Jul2019
+#3D_Mandel_Functions.py
 #
-#
-
-import 
